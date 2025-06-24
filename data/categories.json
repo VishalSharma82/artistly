@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Singer",
+    "image": "/categories/singer.jpg"
+  },
+  {
+    "id": 2,
+    "title": "DJ",
+    "image": "/categories/dj.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dancer",
+    "image": "/categories/dancer.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Speaker",
+    "image": "/categories/speaker.jpg"
+  }
+]
